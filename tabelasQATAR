@@ -1,0 +1,52 @@
+
+<h1>Tabelas</h1>
+<table border="1">
+    <tr>
+        <th colspan="3"> JOGOS </th>
+    </tr>
+    <tr>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Seleções</th>
+    </tr>
+    <tr>
+        <th>21/11</th>
+        <th>13h</th>
+        <th>Qatar x Equador</th>
+    </tr>
+    <tr>
+        <th>23/11</th>
+        <th>7h</th>
+        <th>Marrocos x Equador</th>
+    </tr>
+    <tr>
+       <th>25/11</th>
+       <th>16h</th>
+       <th>Inglaterra x Estados Unidos</th>
+    </tr>
+    <tr>
+        <th>27/11</th>
+        <th>16h</th>
+        <th>Espanha x Alemanha</th>
+    </tr>
+    <tr>
+        <th>29/11</th>
+        <th>12h</th>
+        <th>Holanda x Qatar</th>
+    </tr>
+    <tr>
+        <th>1/12</th>
+        <th>16h</th>
+        <th>Costa Rica x Alemanha </th>
+    </tr>
+    <tr>
+        <th>4/12</th>
+        <th>16h</th>
+        <th>Oitavas de final (1ºB X 2ºA)
+    </tr>
+
+
+</table>
+    </body>
+
+</html>
